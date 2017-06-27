@@ -1,0 +1,33 @@
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel='stylesheet' id='font-awesome-css' href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=2015-04-14" type='text/css' media='all'/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=1.11.3'></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="/static/css/style.css" type="text/css">
+  <title>{% if page.title %}{{ page.title }} | Online Northwest{% else %}Online Northwest{% endif %}</title>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-100342916-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+</head>
+<body>
+  <div id="banner">
+    <div id="banner_image">
+      <a href="/"><img src="/static/images/online_northwest_logo_236x330.png"></a>
+    </div>
+  </div>
+  <div id="main">
+    <div id="header">
+      <div id="slogan">
+        A conference on libraries, technology, and culture
+      </div>
+    </div>
+    {% include navigation.html %}
+    <hr />
+    

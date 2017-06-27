@@ -1,0 +1,17 @@
+from fabric.api import env, local, run, task
+from fabric.contrib.project import rsync_project
+
+env.web_root = '/var/www/html'
+env.roledefs = {
+    'staging': ['stage-web.your.org'],
+    'production': ['prod-web.your.org'],
+}
+
+@task
+def deploy():
+    local('bundle install && bundle exec jekyll build')
+    rsync_project(remote_dir=env.web_root, local_dir='./_site/', delete=True)
+
+@task
+def clean():
+    local('rm -rf _site')
