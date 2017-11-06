@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Call for Proposals
+permalink: /call-for-proposals/
 ---
 
 **Online Northwest 2018 Call for Proposals**  
@@ -28,7 +30,3 @@ Post-conference, presenters will have the option of submitting a paper, or other
 Proposals will be accepted until 5pm on December 15, 2017.  Follow this link and create an account to submit: [http://pdxscholar.library.pdx.edu/cgi/ir_submit.cgi?context=onlinenorthwest](http://pdxscholar.library.pdx.edu/cgi/ir_submit.cgi?context=onlinenorthwest)  
 
 For more information about Online Northwest, please see our website:  [http://onlinenorthwest.org/](http://onlinenorthwest.org/) . Information about conference registration will be posted shortly.  
-
-- - -
-
-{% include tweets.html %}
