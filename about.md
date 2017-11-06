@@ -16,37 +16,30 @@ In June 2015 the Oregon University System officially disbanded.  As a result, th
 
 ## Program Planning Committee Members
 
-**David Forero**   
-Oregon Health & Science University Library  
-Email: forero@ohsu.edu  
-
-**Blake Galbreath (2017 co-chair)***  
-Washington State University Library  
-Email: blake.galbreath@wsu.edu  
-
-**Jeremiah Kellogg**  
-Eastern Oregon University Library  
-Email: jkellogg@eou.edu
-
-**Aja Bettencourt McCarthy**  
+**Aja Bettencourt McCarthy (2018 co-chair)**   
 Oregon Institute of Technology Library  
-Email: aja.bettencourtmccarthy@oit.edu
+Email: aja.bettencourtmccarthy@oit.edu  
 
-**Robert Monge**  
+**Robert Monge (2018 co-chair)**  
 Western Oregon University, Hamersly Library  
 Email: monger@wou.edu  
+
+**Nina Fox**  
+University of Oregon  
+Email: ninafox@uoregon.edu  
 
 **Dan Moore**  
 Oregon State University, The Valley Library  
 Email: dan.moore@oregonstate.edu  
  
-**Karen Munro (2017 co-chair)**  
-University of Oregon, Portland Library  
-Email: kmunro@uoregon.edu  
+**Jeremiah Kellogg**  
+Eastern Oregon University Library  
+Email: jkellogg@eou.edu  
 
-**Kimberly Pendell**  
-Portland State University Library  
-Email: kpendell@pdx.edu  
+**Elizabeth Pickard**  
+Portland State University  
+Email: epickard@pdx.edu  
 
-
-\* Blake Galbreath began his term as co-chair at Eastern Oregon University Library.  For the sake of continuity, he will continue as co-chair through 2017 although he is no longer employed at a former OUS Library.  
+**Tammi Wilkerson**  
+Oregon Health Sciences University  
+Email: wilkerst@ohsu.edu  
