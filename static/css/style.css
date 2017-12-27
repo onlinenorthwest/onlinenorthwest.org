@@ -161,6 +161,7 @@ li {
 
 #twitter_stream {
     text-align: center;
+    padding-top: 60px;
 }
 
 .navbar-default {
@@ -193,3 +194,11 @@ li {
     text-decoration: underline;
 }
 
+.bio-image {
+    float: left;
+    padding-right: 20px;
+}
+
+.bio {
+    margin-top: 20px;
+}

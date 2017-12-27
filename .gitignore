@@ -5,3 +5,5 @@ _site.zip
 fabfile.py
 fabfile.pyc
 _config.yml
+.vscode
+
