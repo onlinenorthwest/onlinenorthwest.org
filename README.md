@@ -35,26 +35,3 @@ Files use permalinks in the front matter to control URLs.
  * [Jekyll Documentation](http://jekyllrb.com/docs/home/)
  * [Fabric Documentation](http://docs.fabfile.org/)
 
-## PSU Deployment
-
-Copy the fabfile and customize.
-
-```
-cp fabfile.py.example fabfile.py
-```
-
-```
-env.web_root = '/srv/www/onlinenorthwest.org/htdocs'
-env.roledefs = {
-    'staging': ['stage.lib.pdx.edu'],
-    'production': ['prod.lib.pdx.edu'],
-}
-
-```
-
-Use Fabric to generate the site files and copy them to the server.
-
-```
-fab -R production deploy
-```
-
