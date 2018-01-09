@@ -2,8 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 _site.zip
-fabfile.py
-fabfile.pyc
 _config.yml
 .vscode
-
+config.py
+*.pyc
