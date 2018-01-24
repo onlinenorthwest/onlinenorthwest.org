@@ -5,7 +5,7 @@ layout: default
 
 We are delighted to announce that registration is now open for Online Northwest 2018! Please join us this year on March 30th, 2018 at Portland State University for a program that includes presentations on privacy, OERs, user testing, and tools for effective instruction.
 
-## [Register Today!](https://commerce.cashnet.com/pdxLIBRARY_CONF)
+## <a href="https://commerce.cashnet.com/pdxLIBRARY_CONF" target="_blank">Register Today!</a>
 
 Registration costs are below, and include morning and afternoon snacks as well as lunch Early bird registration is $100, open until February 22nd, 2018
 Registration after February 22nd is $135
