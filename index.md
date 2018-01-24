@@ -7,8 +7,7 @@ We are delighted to announce that registration is now open for Online Northwest 
 
 ## <a href="https://commerce.cashnet.com/pdxLIBRARY_CONF" target="_blank">Register Today!</a>
 
-Registration costs are below, and include morning and afternoon snacks as well as lunch Early bird registration is $100, open until February 22nd, 2018
-Registration after February 22nd is $135
+Registration costs are below, and include morning and afternoon snacks as well as lunch Early bird registration is $100, open until February 22nd, 2018 Registration after February 22nd is $135
 
 The full program and schedule are available at [https://pdxscholar.library.pdx.edu/onlinenorthwest/2018/](https://pdxscholar.library.pdx.edu/onlinenorthwest/2018/)
 
