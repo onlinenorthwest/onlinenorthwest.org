@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lodging
-permalink: /lodging/
+title: Travel
+permalink: /travel/
 ---
 
 Recommended hotels near Portland State University:  
